@@ -5,9 +5,12 @@ In a town filled to the brim with UFO sightings, my client wanted an html page c
 
 # Results
 
-The user can navigate through the page by reloading the page by clicking the navbar at the top right corner and can filter their desired date, city, state, country, and shape where a list of the desired data is formulated on the right side of the screen. Desired parameters are not limited to being entered one at a time, and can initialized simultaneously to retrieve the desired data
+The user can navigate through the page by reloading the page by clicking the navbar (circled in red) at the top right corner and can filter their desired date, city, state, country, and shape where a list of the desired data is formulated on the right side of the screen. Desired parameters are not limited to being entered one at a time, and can initialized simultaneously to retrieve the desired data
+
+![navbar](https://user-images.githubusercontent.com/92961267/162591112-26182613-b182-418c-a2b0-693585691e4f.png)
 
 
+![filtersearch and table](https://user-images.githubusercontent.com/92961267/162591115-97bd9a8e-d8bc-4cdc-a0e3-75e9ae0d3e60.png)
 
 ---
 
